@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fead6c5c-570a-4ad8-b8ce-396d453f8a9f" name="Changes" comment="Java GUI">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Jlabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyLayeredPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyTextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NewWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SimpleBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/borderLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/comboBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/flowLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/gridLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jOptionPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jProgressBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jRadioBtn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jSlider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/menuBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/submitTextBtn.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="ProjectId" id="2RoSIz3SfsTqRKEltrw4gGfSq6V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "onboarding.tips.debug.path": "/root/IdeaProjects/Jframe/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fead6c5c-570a-4ad8-b8ce-396d453f8a9f" name="Changes" comment="" />
+      <created>1687914870794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687914870794</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java GUI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java GUI" />
+  </component>
+</project>
